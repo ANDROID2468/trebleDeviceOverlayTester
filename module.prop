@@ -1,6 +1,6 @@
 id=trebile-device
-name=trebile test  overlay
-version=v0.1
+name=Trebile Device Test Overlay
+version=v0.2
 versionCode=00003
 author=ANDROID2468
-description=Test overlays before you release them with this magisk module
+description=Test overlays for GSI Roms before you release them with this magisk module.
